@@ -1,0 +1,76 @@
+baseURL = 'http://arch.fail'
+theme = 'risotto'
+languageCode = 'en'
+title = 'Arch Reject'
+author = 'Pratyush Desai'
+
+sectionPagesMenu = "main"
+
+[params]
+noindex = false
+
+[params.theme]
+palette = "rosepine"
+
+[params.about]
+title = "pratyush desai"
+description = "Arch Reject"
+logo = "images/anime.svg"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-github"
+title = "GitHub"
+url = "https://github.com/mogad0n"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-git-alt"
+title = "GitHub"
+url = "https://git.com.de/pratyush"
+
+[[params.socialLinks]]
+icon = "fa-solid fa-envelope"
+title = "Email"
+url = "mailto:pratyush.desai@liberta.casa"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "Boring"
+    name = "Boring"
+    url = "/listcreds/"
+    weight = 10
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup]
+
+  # Table of contents
+  # Add toc = true to content front matter to enable
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel   = 3
+    ordered    = true
