@@ -1,8 +1,11 @@
 baseURL = 'https://arch.fail'
 theme = 'risotto'
-languageCode = 'en'
 title = 'Arch Reject'
 author = 'Pratyush Desai'
+paginate = 3
+languageCode = "en"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
 
 sectionPagesMenu = "main"
 
