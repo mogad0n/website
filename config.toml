@@ -1,4 +1,4 @@
-baseURL = 'http://arch.fail'
+baseURL = 'https://arch.fail'
 theme = 'risotto'
 languageCode = 'en'
 title = 'Arch Reject'
@@ -14,8 +14,8 @@ palette = "rosepine"
 
 [params.about]
 title = "pratyush desai"
-description = "Arch Reject"
-logo = "images/anime.svg"
+description = "No description set"
+logo = "images/shodan.png"
 
 [[params.socialLinks]]
 icon = "fa-brands fa-github"
@@ -24,13 +24,18 @@ url = "https://github.com/mogad0n"
 
 [[params.socialLinks]]
 icon = "fa-brands fa-git-alt"
-title = "GitHub"
+title = "Gitea"
 url = "https://git.com.de/pratyush"
 
 [[params.socialLinks]]
 icon = "fa-solid fa-envelope"
 title = "Email"
 url = "mailto:pratyush.desai@liberta.casa"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-mastodon"
+title = "Mastodon"
+url = "https://fosstodon.org/@mogad0n"
 
 [menu]
 
@@ -53,9 +58,9 @@ url = "mailto:pratyush.desai@liberta.casa"
     weight = 10
 
   [[menu.main]]
-    identifier = "Boring"
-    name = "Boring"
-    url = "/listcreds/"
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
     weight = 10
 
 [taxonomies]
