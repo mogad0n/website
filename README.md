@@ -1,4 +1,7 @@
-# Website
+# Website Generator
 
-# TODO
+    This utilizes `hugo` as a static site generator.
+
+
+
 
