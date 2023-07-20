@@ -18,7 +18,7 @@ palette = "rosepine"
 [params.about]
 title = "pratyush desai"
 description = "No description set"
-logo = "images/shodandos.png"
+logo = "images/shodandos.jpg"
 
 [[params.socialLinks]]
 icon = "fa-brands fa-github"
