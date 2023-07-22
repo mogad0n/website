@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-I'm a software developer from the suburbs of Mumbai (Bombay), India.
+I'm a software developer from Mumbai (Bombay), India.
 
 I can usually be found tinkering on some of the Free and Open source softwares and libraries that enable us to build things and improve our lives. It's not only important in my view to build/contribute software that supports
 open standards rather than walled gardens but to also run open services.
