@@ -8,14 +8,19 @@ draft: false
 
 ### Email
 
-* [Email](mailto:pratyush.desai@liberta.casa) - pratyush.desai@liberta.casa
+* [Email](mailto:mail@pratyushdesai.com) - mail@pratyushdesai.com
+* [Email Alternate](mailto:pratyush.desai@liberta.casa) - pratyush.desai@liberta.casa (PGP support)
 * [Gmail](mailto:pratyushndesai@gmail.com) - pratyushndesai@gmail.com
 
 ### IRC
 
 * I am `pratyush` on IRC on [LibertaCasa](ircs://irc.casa) accessible via [webchat](https://liberta.casa/gamja).
 
+### Mastodon
+
+* <a rel="me" href="https://fosstodon.org/@pratyush">pratyush@fosstodon.org</a>
 
 ### Misc
 
-* Walled garden platforms such as Telegram, Signal, discord and WhatsApp
+* Walled garden platforms such as Telegram, Signal and WhatsApp
+* Sadly, even discord.

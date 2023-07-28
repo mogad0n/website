@@ -1,4 +1,4 @@
-baseURL: 'https://arch.fail'
+baseURL: 'https://pratyushdesai.com'
 theme: risotto
 title: sirius
 author: Pratyush Desai
@@ -18,7 +18,7 @@ params:
   socialLinks:
     - icon: fa-brands fa-github
       title: GitHub
-      url: 'https://github.com/mogad0n'
+      url: 'https://github.com/pratyushd3v'
     - icon: fa-brands fa-git-alt
       title: Gitea
       url: 'https://git.com.de/pratyush'
@@ -27,7 +27,7 @@ params:
       url: 'mailto:pratyush.desai@liberta.casa'
     - icon: fa-brands fa-mastodon
       title: Mastodon
-      url: 'https://fosstodon.org/@mogad0n'
+      url: 'https://fosstodon.org/@pratyush'
 menu:
   main:
     - identifier: about
